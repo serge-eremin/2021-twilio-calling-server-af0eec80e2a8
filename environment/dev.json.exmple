@@ -1,0 +1,12 @@
+{
+    "port": 12345,
+    "twilio": {
+        "accountSid": "ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "authToken": "46xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "callbackURL": "http://dummy-12345.ngrok.io",
+        "applicationSid": "APxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "devices": {
+    "device1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  }
